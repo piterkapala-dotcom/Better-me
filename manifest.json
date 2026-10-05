@@ -1,0 +1,17 @@
+{
+  "name": "Better Me",
+  "short_name": "Better Me",
+  "start_url": "./?v=1",
+  "display": "standalone",
+  "background_color": "#07110d",
+  "theme_color": "#07110d",
+  "lang": "pl",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
